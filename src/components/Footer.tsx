@@ -9,7 +9,7 @@ export default function Footer() {
       <div className="container-x py-16">
         <div className="grid gap-10 md:grid-cols-4">
           <div>
-            <Logo />
+            <Logo variant="header" />
             <p className="mt-4 text-sm text-muted max-w-xs">
               Solutions for the Digital Era. Driving scalable digital growth
               for modern brands with AI, marketing, and technology.
