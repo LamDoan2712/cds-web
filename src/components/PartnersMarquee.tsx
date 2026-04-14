@@ -17,7 +17,6 @@ const partners: Partner[] = [
   { name: "Chin Media", src: "/LOGO_PARTNER/CHIN.PNG", w: 1080, h: 1080, scale: 1.25 },
   { name: "DAO", src: "/LOGO_PARTNER/DAO.PNG", w: 1080, h: 1080, scale: 1.15 },
   { name: "Haustek", src: "/LOGO_PARTNER/HAUSTEK.PNG", w: 1080, h: 1080, scale: 1.1 },
-  { name: "Holywater Tech", src: "/LOGO_PARTNER/HW_tech_logo.png", w: 250, h: 167 },
   { name: "Kind", src: "/LOGO_PARTNER/KIND.PNG", w: 1080, h: 1080, scale: 1.5 },
   { name: "Orin", src: "/LOGO_PARTNER/ORIN.PNG", w: 1080, h: 1080, scale: 1.35 },
   { name: "Rush Media", src: "/LOGO_PARTNER/RUSHMEDIA.png", w: 1042, h: 417 },
